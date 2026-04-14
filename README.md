@@ -209,6 +209,13 @@
   <img src="https://streak-stats.demolab.com/?user=gokeeel&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="Streak" />
 </div>
 
+# Check out my leetcode heatmap
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/gokeeel?ext=heatmap)
+
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=gokeeel&label=Profile%20views&color=0e75b6&style=flat" alt="gokeeel" /> 
+</p>
 ---
 
 ## 🤝 Let's Connect
