@@ -5,7 +5,7 @@
   Hi, I'm <strong>GOKUL JAYACHANDRAN</strong>
 </h1>
 
-<h3>Techno-Functional BA | SQL • SAP • Blockchain • Python • Requirements Engineering</h3>
+<h3>Techno-Functional BA | SQL • Blockchain • Python • Requirements Engineering</h3>
 
 <div align="left">
   <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
@@ -51,19 +51,15 @@
 
 <table align="center">
 <tr>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <img src="https://img.shields.io/badge/📋-Requirements_Engineering-0f0c29?style=for-the-badge"/><br/>
   <sub>BRD · FRS · User Stories · Gap Analysis</sub>
 </td>
-<td align="center" width="25%">
-  <img src="https://img.shields.io/badge/🏢-ERP_Consulting-302b63?style=for-the-badge"/><br/>
-  <sub>SAP Modules · Process Mapping · Workflow Design</sub>
-</td>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <img src="https://img.shields.io/badge/⛓️-Blockchain_Solutions-24243e?style=for-the-badge"/><br/>
   <sub>Smart Contracts · Decentralized Apps · Web3</sub>
 </td>
-<td align="center" width="25%">
+<td align="center" width="33%">
   <img src="https://img.shields.io/badge/📊-Data_&_Analytics-0f0c29?style=for-the-badge"/><br/>
   <sub>SQL · Python · Reporting · Decision Models</sub>
 </td>
@@ -91,14 +87,12 @@
 <tr>
 <td width="50%" align="center">
   <h3>🧰 Tools & Platforms</h3>
-  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,notion,github" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,github" />
   <br/><br/>
 </td>
 <td width="50%" align="center">
-  <h3>📊 BA & ERP Tools</h3>
+  <h3>📊 BA & Analytics Tools</h3>
   <br/>
-  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white"/>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
@@ -122,45 +116,44 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 SupplyChain on Blockchain *(Dummy)*
-> Decentralized supply chain transparency platform using Ethereum smart contracts. Tracks goods from manufacturer to retailer with immutable audit trails.
+### 🔐 DeFiScore: Privacy-Preserving On-Chain Credit System
+> Production-ready decentralized credit scoring platform that computes wallet creditworthiness off-chain and verifies eligibility on-chain using Zero-Knowledge proofs — enabling under-collateralized DeFi lending without exposing credit scores or transaction history.
 
-**Tech:** `Solidity` `Web3.js` `Python` `MySQL`
+**Tech:** `Solidity` `Python` `Blockchain` `ZK Proofs` `Smart Contracts`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1A1A1A?style=for-the-badge&logo=github)](https://github.com/gokeeel)
-[![Demo](https://img.shields.io/badge/Demo-Live_Preview-302b63?style=for-the-badge)](https://github.com/gokeeel)
+> 🔒 Private Repository
 
 </td>
 <td width="50%" valign="top">
 
-### 📋 BRD Automation Tool *(Dummy)*
-> Python-based tool that auto-generates Business Requirement Documents from structured user input templates, reducing documentation time by ~60%.
+### 📊 Marquelytix: Real-time Customer Sentiment SaaS
+> Full-stack SaaS platform for real-time customer sentiment monitoring targeted at micro and small businesses. Provides Brand24-style analytics with ML-powered sentiment analysis across social media and review sources.
 
-**Tech:** `Python` `Jinja2` `SQL` `Excel`
+**Tech:** `React` `TypeScript` `Node.js` `PostgreSQL` `Hugging Face API`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1A1A1A?style=for-the-badge&logo=github)](https://github.com/gokeeel)
+[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1A1A1A?style=for-the-badge&logo=github)](https://github.com/gokeeel/Marquelytix)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 FinTech Dashboard *(Dummy)*
-> Data-driven financial analytics dashboard for SMEs. Provides real-time KPI tracking, cash flow insights, and anomaly detection using SQL pipelines.
+### 🛡️ Anvikshan: Risk-Based Data Privacy Enforcement
+> Government-grade data privacy enforcement system for unit-level datasets. Assesses anonymisation and encryption effectiveness, applies risk-based safeguards to sensitive identifiers, and enables controlled data dissemination while maintaining analytical utility and compliance.
 
-**Tech:** `Python` `SQL` `Power BI` `PostgreSQL`
+**Tech:** `Python` `Encryption` `PostgreSQL` `Data Governance`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1A1A1A?style=for-the-badge&logo=github)](https://github.com/gokeeel)
+> 🔒 Private Repository
 
 </td>
 <td width="50%" valign="top">
 
-### 🏢 SAP Process Mapper *(Dummy)*
-> Workflow documentation and gap-analysis tool built to map SAP SD/MM business processes, identify inefficiencies, and generate process flow reports.
+### 🪔 IndiCraft: Artisan Marketplace Platform
+> AI-powered global marketplace connecting Indian artisans with international buyers. Features smart product discovery, regional and seasonal categorization, seller verification, and the DNK Scheme for affordable global export logistics — empowering rural creators through digital commerce.
 
-**Tech:** `SAP` `Python` `Excel` `Figma`
+**Tech:** `React` `Python` `AI/ML` `PostgreSQL`
 
-[![Repo](https://img.shields.io/badge/GitHub-View_Repo-1A1A1A?style=for-the-badge&logo=github)](https://github.com/gokeeel)
+[![Live](https://img.shields.io/badge/Demo-Live_Preview-302b63?style=for-the-badge)](https://indicraft.vercel.app/login)
 
 </td>
 </tr>
@@ -176,15 +169,15 @@
 
 <br/>
 
-> **🏢 Business Analyst Intern** — *Dummy Corp Pvt. Ltd.* *(Jun 2024 – Aug 2024)*
+> **💻 Software Developer Intern** — *SprintXplore* *(Jan 2026 – Apr 2026)*
 >
-> Worked on requirement gathering, stakeholder interviews, and drafting BRDs for an internal ERP migration project. Mapped AS-IS vs TO-BE processes and assisted in UAT documentation.
+> Developed DeFiScore, a privacy-preserving on-chain credit verification system using blockchain technology. Implemented smart contracts for under-collateralized DeFi lending and built cryptographic solutions that enable credit verification without exposing sensitive transaction data.
 
 ---
 
-> **⛓️ Blockchain Research Intern** — *Dummy Blockchain Labs* *(Jan 2024 – Mar 2024)*
+> **📣 Marketing & Sales Intern** — *DOT CoWork* *(Jun 2025 – Jul 2025)*
 >
-> Researched use cases of smart contracts in supply chain finance. Assisted in writing whitepapers and created process flow diagrams for decentralized audit systems.
+> Handled 50+ cold calls and led lead generation initiatives, conducting workspace tours for potential clients. Managed client onboarding processes and developed marketing strategies to optimize conversion rates. Utilized marketing funnels and UI/UX principles to enhance customer engagement and retention.
 
 ---
 
@@ -192,10 +185,22 @@
 
 | 🏅 Certification | 🏢 Issuer | 📅 Year |
 |---|---|---|
-| SAP Fundamentals (Dummy) | SAP Learning Hub | 2024 |
-| SQL for Data Analysis (Dummy) | Coursera / Google | 2024 |
-| Blockchain Basics (Dummy) | NPTEL / Coursera | 2023 |
-| Business Analysis Fundamentals (Dummy) | Udemy / IIBA | 2024 |
+| Business to Business Marketing | NPTEL | 2024 |
+| Programming in Java | NPTEL | 2024 |
+| The Joy of Computing using Python | NPTEL | 2023 |
+| Agile Scrum in Practice | Infosys | 2024 |
+| National Level STTP 2k24 | Brainovision Solutions | 2024 |
+
+---
+
+## 🏆 Achievements & Leadership
+
+| 🎖️ | Details |
+|---|---|
+| 🥇 Hackathon Winner | ChemOvate 2026 |
+| 🏅 Hackathon Finalist | ChemOvate 2025 · NxtGen 2026 · Statathon 2025 · Hack the Horizon 2025 |
+| 🎓 Campus Leadership | President – Youth United Council of India |
+| 🚨 Club Influencer | Disaster Management & Safety Club |
 
 ---
 
@@ -216,13 +221,14 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=gokeeel&label=Profile%20views&color=0e75b6&style=flat" alt="gokeeel" /> 
 </p>
+
 ---
 
 ## 🤝 Let's Connect
 
 <div align="center">
   <p>
-    <em>I'm always open to interesting conversations, internship opportunities, and collaborative projects in <strong>BA, ERP, FinTech, or Blockchain</strong>.</em>
+    <em>I'm always open to interesting conversations, internship opportunities, and collaborative projects in <strong>BA, FinTech, or Blockchain</strong>.</em>
   </p>
   <a href="mailto:gokuljai2006@gmail.com">
     <img src="https://img.shields.io/badge/📧_Drop_Me_a_Mail-0f0c29?style=for-the-badge"/>
