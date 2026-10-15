@@ -1,333 +1,125 @@
-<img align="center" alt="Banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Gokul%20Jayachandran&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Techno-Functional%20Business%20Analyst%20%7C%20Product%20%26%20Technology&descAlignY=58&descSize=18&animation=fadeIn"/>
+<!-- ============ BANNER (dark / light) ============ -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:3b0764,100:00f5ff&height=220&section=header&text=Gokul%20Jayachandran&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Blockchain%20%7C%20Hackathon%20Winner&descAlignY=60&descSize=18&animation=twinkling" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:f0abfc,50:a78bfa,100:60a5fa&height=220&section=header&text=Gokul%20Jayachandran&fontSize=52&fontColor=1a0533&fontAlignY=38&desc=Backend%20Developer%20%7C%20Blockchain%20%7C%20Hackathon%20Winner&descAlignY=60&descSize=18&animation=twinkling" />
+  <img alt="Gokul Jayachandran" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,45:3b0764,100:00f5ff&height=220&section=header&text=Gokul%20Jayachandran&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%7C%20Blockchain%20%7C%20Hackathon%20Winner&descAlignY=60&descSize=18&animation=twinkling" width="100%" />
+</picture>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>GOKUL JAYACHANDRAN</strong>
-</h1>
-
-<h3>Techno-Functional Business Analyst | Product Thinking • Requirements • Data • FinTech • Blockchain</h3>
-
-<div align="left">
-  <img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" />
-
-  <p>
-    I am a <strong>Computer Science and Business Systems student</strong> focused on building technology that solves real business problems.
-    My interests sit at the intersection of <strong>business analysis, product development, data, FinTech, and emerging technologies</strong>.
-  </p>
-
-  <p>
-    I enjoy breaking down ambiguous problems into structured requirements, designing solution workflows,
-    analysing data, and translating business needs into functional technical systems.
-  </p>
-
-  <p>
-    My current work spans <strong>privacy-preserving systems, blockchain applications, data evaluation,
-    AI-powered platforms, and digital commerce</strong>.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/📍_Chennai,_India-0f0c29?style=for-the-badge" />
-    <a href="mailto:gokuljai2006@gmail.com">
-      <img src="https://img.shields.io/badge/📧_gokuljai2006%40gmail.com-302b63?style=for-the-badge" />
-    </a>
-    <img src="https://img.shields.io/badge/🎯_Techno--Functional_BA-24243e?style=for-the-badge" />
-  </p>
-
-  <h3>🌐 Connect</h3>
-
-  <p align="left">
-    <a href="https://github.com/gokeeel">
-      <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/gokeeel">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://gokuljayachandran.vercel.app/">
-      <img src="https://img.shields.io/badge/Portfolio-302b63?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </p>
-
-  <img src="https://komarev.com/ghpvc/?username=gokeeel&style=flat-square&color=302b63" alt="Profile Views"/>
-</div>
-
-<br clear="all" />
-
----
-
-## 🧭 What I Do
-
+<!-- ============ TYPING TAGLINE (dark / light) ============ -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400"/>
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=640&height=50&lines=Backend+Dev.;Hackathon+Animal.;Slightly+Unhinged+Builder.;Chennai+%E2%86%92+The+Universe+%F0%9F%9A%80" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=7C3AED&center=true&vCenter=true&width=640&height=50&lines=Backend+Dev.;Hackathon+Animal.;Slightly+Unhinged+Builder.;Chennai+%E2%86%92+The+Universe+%F0%9F%9A%80" />
+    <img alt="Backend Dev. Hackathon Animal. Slightly Unhinged Builder." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=900&color=00F5FF&center=true&vCenter=true&width=640&height=50&lines=Backend+Dev.;Hackathon+Animal.;Slightly+Unhinged+Builder.;Chennai+%E2%86%92+The+Universe+%F0%9F%9A%80" />
+  </picture>
 
-<br/>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/📋-Business_Analysis-0f0c29?style=for-the-badge"/>
   <br/><br/>
-  <sub>Requirements · User Stories · Process Mapping · Gap Analysis</sub>
-</td>
 
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/💡-Product_Thinking-302b63?style=for-the-badge"/>
-  <br/><br/>
-  <sub>Problem Definition · Solution Design · UX · Product Workflows</sub>
-</td>
-
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/📊-Data_&_Technology-24243e?style=for-the-badge"/>
-  <br/><br/>
-  <sub>SQL · Python · Analytics · APIs · System Design</sub>
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Skills & Tools
-
-<p align="center">
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### 💻 Development
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,solidity" />
-
-</td>
-
-<td width="50%" align="center">
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase" />
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" align="center">
-
-### 🧰 Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
-
-</td>
-
-<td width="50%" align="center">
-
-### 📊 Business & Delivery
-
-<img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
-<img src="https://img.shields.io/badge/MS_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-</p>
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🔐 DeFiScore
-
-#### Privacy-Preserving On-Chain Credit Verification
-
-A blockchain-based system that evaluates wallet behaviour and enables privacy-preserving credit verification for DeFi lending workflows.
-
-The system explores a hybrid architecture involving wallet authentication, transaction analysis, risk assessment, zero-knowledge proof generation, and on-chain eligibility verification.
-
-**Tech**
-
-`Solidity` `Circom` `SnarkJS`
-`React` `Next.js` `FastAPI`
-`PostgreSQL` `Web3` `Polygon` `Ethers.js`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛡️ Anvikshan
-
-#### Privacy-Preserving Data Evaluation
-
-A data privacy evaluation and anonymisation platform focused on analysing tabular datasets, identifying sensitive attributes, assessing disclosure risks, and generating privacy-aware datasets.
-
-The project combines data governance concepts with practical privacy-preserving workflows.
-
-**Tech**
-
-`Python` `PostgreSQL`
-`Data Privacy` `Anonymisation`
-`Encryption` `Data Governance`
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🪔 IndiCraft
-
-#### Artisan-to-Global Digital Commerce
-
-A live-in-lab startup initiative designed to connect Indian artisans with global customers through a curated digital marketplace.
-
-The platform focuses on artisan discovery, regional segmentation, sustainable logistics, and AI-assisted product recommendations.
-
-**Tech**
-
-`React` `Python` `AI/ML` `PostgreSQL`
-
-[![Live](https://img.shields.io/badge/🌐_Live_Portfolio-302b63?style=for-the-badge\&logo=vercel\&logoColor=white)](https://gokuljayachandran.vercel.app/)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🧪 SHEILD
-
-#### Sustainable Hygiene & Safety Solution
-
-A hardware-oriented solution combining sanitary hygiene products with an eco-friendly disposal approach and a controlled-access dispenser mechanism.
-
-The project reflects my interest in solving real-world problems through practical technology and product design.
-
-</td>
-
-</tr>
-</table>
-
----
-
-## 💼 Experience
-
-### 💻 Software Developer Intern — SprintXplore
-
-**Jan 2026 – Apr 2026**
-
-Worked on **DeFiScore**, a privacy-preserving blockchain credit verification system.
-
-Contributed to the design and implementation of blockchain workflows, backend processing, smart-contract functionality, and privacy-preserving verification mechanisms.
-
----
-
-### 📣 Marketing & Sales Intern — DOT CoWork
-
-**Jun 2025 – Jul 2025**
-
-Worked across lead generation, customer outreach, workspace tours, onboarding, and marketing activities.
-
-Handled **50+ cold calls**, supported prospective-client interactions, and worked with marketing funnels to improve customer engagement and conversion.
-
----
-
-## 🎓 Education
-
-### Sri Sairam Engineering College
-
-**B.Tech — Computer Science and Business Systems**
-
-**2023 – 2027**
-
-Focused on the intersection of software engineering, business systems, analytics, and technology-driven problem solving.
-
----
-
-## 🏆 Achievements
-
-| 🏅 | Achievement                                             |
-| -- | ------------------------------------------------------- |
-| 🥇 | **Hackathon Winner — ChemOvate 2026**                   |
-| 🏅 | **Hackathon Finalist — NxtGen 2026**                    |
-| 🏅 | **Hackathon Finalist — Statathon 2025**                 |
-| 🏅 | **Hackathon Finalist — Hack the Horizon 2025**          |
-| 🏅 | **Hackathon Finalist — ChemOvate 2025**                 |
-| 🎓 | **President — Youth United Council of India**           |
-| 🚨 | **Club Influencer — Disaster Management & Safety Club** |
-
----
-
-## 📜 Certifications
-
-| 🏅 Certification                  | 🏢 Issuer              | 📅 Year |
-| --------------------------------- | ---------------------- | ------: |
-| Business to Business Marketing    | NPTEL                  |    2024 |
-| Programming in Java               | NPTEL                  |    2024 |
-| The Joy of Computing using Python | NPTEL                  |    2023 |
-| Agile Scrum in Practice           | Infosys                |    2024 |
-| National Level STTP 2k24          | Brainovision Solutions |    2024 |
-
----
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=gokeeel&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokeeel&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=a78bfa&text_color=ffffff" height="165"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=gokeeel&theme=tokyonight&hide_border=true&background=0f0c29&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" alt="GitHub Streak" />
-
+  <a href="https://gokuljayachandran.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-ENTER_THE_ORBIT-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/gokeeel">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:gokuljai2006@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ec4899?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gokeeel&style=for-the-badge&color=00b8d4&label=VIEWS" />
 </div>
 
 ---
 
-## 🧩 Problem-Solving
+## 👨‍🚀 Mission Briefing
+
+I build **backends that don't break**, APIs that scale, and blockchain systems that actually work.
+Hackathons are my playground, caffeine is my fuel, and "impossible" is just a deadline.
+
+📍 Chennai, India &nbsp;•&nbsp; ⚡ Backend + Blockchain + Data &nbsp;•&nbsp; 🏆 2× hackathon winner
+
+---
+
+## 🛠️ Arsenal
 
 <div align="center">
-
-<img src="https://leetcard.jacoblin.cool/gokeeel?ext=heatmap" alt="LeetCode Heatmap"/>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,js,html,css,solidity,postgresql,mysql,mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,js,html,css,solidity,postgresql,mysql,mongodb,firebase,git,github,vscode,postman,figma&theme=light" />
+    <img alt="Skills" src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,solidity,postgresql,mysql,mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
+  </picture>
 </div>
 
 ---
 
-## 🌐 Find Me Online
+## 🚀 Missions
+
+| Mission | What it does | Stack |
+| :-- | :-- | :-- |
+| 🔐 **DeFiScore** | Privacy-preserving on-chain credit verification using zero-knowledge proofs | `Solidity` `Circom` `SnarkJS` `FastAPI` `Next.js` `PostgreSQL` `Polygon` |
+| 🛡️ **Anvikshan** | Data privacy evaluation and anonymisation for tabular datasets | `Python` `PostgreSQL` `Encryption` |
+| 🪔 **IndiCraft** | Digital marketplace connecting Indian artisans with global buyers | `React` `Python` `AI/ML` `PostgreSQL` |
+| 🏗️ **PAIMANA-AI** | Predictive monitoring of national infrastructure projects: cost and time overrun prediction with risk scoring | `Python` `FastAPI` `XGBoost` `Streamlit` |
+
+---
+
+## 💼 Flight Log
+
+**💻 Software Developer Intern — SprintXplore** &nbsp;`Jan 2026 – Apr 2026`
+Built blockchain workflows, backend processing, and smart-contract logic for DeFiScore.
+
+**📣 Marketing & Sales Intern — DOT CoWork** &nbsp;`Jun 2025 – Jul 2025`
+50+ cold calls, client onboarding, and funnel-driven outreach.
+
+**🎓 Sri Sairam Engineering College** &nbsp;`2023 – 2027`
+B.Tech, Computer Science and Business Systems.
+
+---
+
+## 🏆 Trophy Room
+
+| | Achievement |
+| :-: | :-- |
+| 🥇 | **Winner — Statathon 2025** |
+| 🥇 | **Winner — ChemOvate 2026** |
+| 🏅 | Finalist — NxtGen 2026 |
+| 🏅 | Finalist — ChemOvate 2025 |
+| 🎖️ | President — Youth United Council of India |
+| 🚨 | Club Influencer — Disaster Management & Safety Club |
+
+---
+
+## 📡 Telemetry
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=gokeeel&show_icons=true&hide_border=true&bg_color=0a0014&title_color=00f5ff&icon_color=a855f7&text_color=ffffff&ring_color=f0abfc" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gokeeel&show_icons=true&hide_border=true&bg_color=f8f8ff&title_color=7c3aed&icon_color=ec4899&text_color=1a0533&ring_color=7c3aed" />
+    <img alt="GitHub Stats" height="165" src="https://github-readme-stats.vercel.app/api?username=gokeeel&show_icons=true&hide_border=true&bg_color=0a0014&title_color=00f5ff&icon_color=a855f7&text_color=ffffff&ring_color=f0abfc" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokeeel&layout=compact&hide_border=true&bg_color=0a0014&title_color=00f5ff&text_color=ffffff" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=gokeeel&layout=compact&hide_border=true&bg_color=f8f8ff&title_color=7c3aed&text_color=1a0533" />
+    <img alt="Top Languages" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gokeeel&layout=compact&hide_border=true&bg_color=0a0014&title_color=00f5ff&text_color=ffffff" />
+  </picture>
+
+  <br/>
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=gokeeel&hide_border=true&background=0a0014&ring=00f5ff&fire=f0abfc&currStreakLabel=00f5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a855f7&dates=a855f7" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=gokeeel&hide_border=true&background=f8f8ff&ring=7c3aed&fire=ec4899&currStreakLabel=7c3aed&currStreakNum=1a0533&sideNums=1a0533&sideLabels=7c3aed&dates=7c3aed" />
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=gokeeel&hide_border=true&background=0a0014&ring=00f5ff&fire=f0abfc&currStreakLabel=00f5ff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=a855f7&dates=a855f7" />
+  </picture>
+</div>
+
+---
 
 <div align="center">
 
-<a href="https://gokuljayachandran.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-0f0c29?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/gokeeel">
-  <img src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/gokeeel">
-  <img src="https://img.shields.io/badge/⭐_GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="mailto:gokuljai2006@gmail.com">
-  <img src="https://img.shields.io/badge/📧_Email-302b63?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+### ⚡ Building at the speed of light. Debugging at the speed of panic. ⚡
 
 </div>
 
-<br/>
-
-<div align="center">
-
-### Building at the intersection of business, data, and technology.
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,55:3b0764,100:000000&height=120&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:60a5fa,50:a78bfa,100:f0abfc&height=120&section=footer" />
+  <img alt="" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,55:3b0764,100:000000&height=120&section=footer" width="100%" />
+</picture>
