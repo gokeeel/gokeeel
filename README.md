@@ -34,7 +34,7 @@
 I build **backends that don't break**, APIs that scale, and blockchain systems that actually work.
 Hackathons are my playground, caffeine is my fuel, and "impossible" is just a deadline.
 
-📍 Chennai, India &nbsp;•&nbsp;  🏆 2× hackathon winner
+📍 Chennai, India &nbsp;•&nbsp; ⚡ Backend + Blockchain + Data &nbsp;•&nbsp; 🏆 2× hackathon winner
 
 ---
 
@@ -42,10 +42,24 @@ Hackathons are my playground, caffeine is my fuel, and "impossible" is just a de
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,fastapi,js,html,css,solidity,postgresql,mysql,mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,fastapi,js,html,css,solidity,postgresql,mysql,mongodb,firebase,git,github,vscode,postman,figma&theme=light" />
-    <img alt="Skills" src="https://skillicons.dev/icons?i=python,fastapi,js,html,css,solidity,postgresql,mysql,mongodb,firebase,git,github,vscode,postman,figma&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,css,solidity&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,html,css,solidity&theme=light" />
+    <img alt="python,js,html,css,solidity" src="https://skillicons.dev/icons?i=python,js,html,css,solidity&theme=dark" />
   </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase&theme=light" />
+    <img alt="postgresql,mysql,mongodb,firebase" src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase&theme=dark" />
+  </picture>
+  <br/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=light" />
+    <img alt="git,github,vscode,postman,figma" src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma&theme=dark" />
+  </picture>
+  <br/><br/>
+  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 ---
