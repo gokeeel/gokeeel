@@ -34,7 +34,7 @@
 I build **backends that don't break**, APIs that scale, and blockchain systems that actually work.
 Hackathons are my playground, caffeine is my fuel, and "impossible" is just a deadline.
 
-📍 Chennai, India &nbsp;•&nbsp; ⚡ Backend + Blockchain + Data &nbsp;•&nbsp; 🏆 2× hackathon winner
+📍 Chennai, India &nbsp;•&nbsp;  🏆 2× hackathon winner
 
 ---
 
