@@ -201,18 +201,6 @@
 
 <br>
 
-<!-- ===================== LIFE IN FRAMES ===================== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/h-gallery-dark.png">
-    <img src="assets/h-gallery-light.png" width="640" alt="Visual Journey — Life in Frames. Explore moments that shaped my journey">
-  </picture>
-  <br><br>
-  <a href="https://gokuljayachandran.vercel.app/#gallery"><img src="assets/gallery-dome.jpg" width="100%" alt="A dome of photos from hackathons, events and college life"></a>
-</div>
-
-<br><br>
-
 <!-- ===================== CONTACT ===================== -->
 <div align="center">
   <picture>
